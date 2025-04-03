@@ -4,7 +4,7 @@ The code snippet attached here is refernce code to show how ROC curve is rendere
 
 The resulting ROC Curve for each is shown hereunder
 
-**ROC_Curve- CICIoT2023**   - related code is ![ROC_Curve- CICIoT2023](https://github.com/bmiftah/ROC-Curve-code/blob/main/CICIoT2023_ROC_Curve)
+**ROC_Curve- CICIoT2023**   - related code is ![ROC_Curve- CICIoT2023](https://github.com/bmiftah/ROC-Curve-code/blob/main/ROC_Curve_CICIoT2023.py)
 
 ![ROC_Curve- CICIoT2023](https://github.com/bmiftah/ROC-Curve-code/blob/main/CICIoT2023_ROC_Curve.jpeg)
 
