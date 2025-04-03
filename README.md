@@ -1,7 +1,7 @@
 **Test code for BI-LSTM Attention model**
 
 The code attached displayes performance metircs such as model loss , accuracy , confusion matrix and ROC curve as rendered by the self-attention-based BI-LSTM Model(SAT-BI-LSTM).
-The complete code that generated plots for **loss , accuracy , confusion matrix and ROC** curve along with the output is given in this repo and can be link shown below for each dataset: 
+The complete code that generated plots for **loss , accuracy , confusion matrix and ROC** curve along with the output is given in this repo and can be seen through the link shown below for each dataset: 
 
 1. **For Complete code and running result for CIC-IoT2023 Dataset**  ![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI_LSTM_CIC_IOT2023_v01.ipynb)
 2. **For Complete code and running result for CIDDOS2019 Dataset** ![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI-LSTM_Attention_Model_CICDDOS2019.ipynb)
