@@ -6,7 +6,7 @@ The resulting ROC Curve for each is shown hereunder
 
 ROC_Curve- CICIoT2023
 
-![ROC_Curve- CICIoT2023]()
+![ROC_Curve- CICIoT2023](https://github.com/bmiftah/ROC-Curve-code/blob/main/CICIoT2023_ROC_Curve.jpeg)
 
 
 
