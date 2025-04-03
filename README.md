@@ -1,6 +1,6 @@
 **ROC Curve** 
 
-The code snippet attached here is refernce code to show how ROC curve is rendered for the self-attention based BI-LSTM Model(SAT-BI-LSTM).
+The code snippet attached here is reference code to show how ROC curve is rendered for the self-attention based BI-LSTM Model(SAT-BI-LSTM). The code here is for reference purpose
 
 The resulting ROC Curve for each is shown hereunder
 
