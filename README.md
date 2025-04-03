@@ -3,7 +3,7 @@
 The code snippet attached here is reference code to show how ROC curve is rendered for the self-attention based BI-LSTM Model(SAT-BI-LSTM).
 The complete code that generated plots for loss , accuracy , confusion matrix and ROC curve along with the output is given in this repo and can be link shown below for each dataset: 
 
-1. For Complete code and running result for CIC-IoT2023 Dataset  ![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/ROC_Curve_CICIoT2023.py)
+1. For Complete code and running result for CIC-IoT2023 Dataset  ![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI_LSTM_CIC_IOT2023_v01.ipynb)
 2. For Complete code and running result for CIDDOS2019 Dataset  ![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/ROC_Curve_CICIoT2023.py)
 
 
