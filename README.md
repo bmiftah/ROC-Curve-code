@@ -3,11 +3,14 @@
 The code attached displays performance metrics such as model loss, accuracy, confusion matrix, and ROC curve as rendered by the self-attention-based BI-LSTM Model(SAT-BI-LSTM).
 The complete code that generated plots for **loss, accuracy, confusion matrix, and ROC** curve along with the output is given in this repo and can be seen through the link shown below for each dataset: 
 
-1. **For Complete code and running result for CIC-IoT2023 Dataset** ![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI_LSTM_CIC_IOT2023_v01.ipynb)
-2. **For Complete code and running result for CIDDOS2019 Dataset**![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI-LSTM_Attention_Model_CICDDOS2019.ipynb)
+1. **For Complete code and running result for CIDDOS2019 Dataset**![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI-LSTM_Attention_Model_CICDDOS2019.ipynb)
+2. **For Complete code and running result for CIC-IoT2023 Dataset**![click here](https://github.com/bmiftah/ROC-Curve-code/blob/main/BI_LSTM_CIC_IOT2023_v01.ipynb)
+   
 
 
-ROC Curve for each is shown hereunder ( CODE and saved output - this is essentially taken from the above code, it is made available here for quick checkup)
+
+
+ROC Curve for each is shown hereunder ( CODE snippt and saved output - this is essentially taken from the above code, it is made available here for quick checkup )
 
 **ROC_Curve- CICIoT2023**   - related code is here ![Code-CICIoT2023](https://github.com/bmiftah/ROC-Curve-code/blob/main/ROC_Curve_CICIoT2023.py)
 
